@@ -76,9 +76,6 @@ Top level domain expansion
 ## OUTPUT:
 <img width="363" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/7038f1fd-9fee-45d4-80a2-2331fbde161b">
 
-<img width="418" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/d408fb61-d3fe-4a62-b4e1-31866a61eb25">
-
-
 
 
 
