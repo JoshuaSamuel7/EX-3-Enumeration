@@ -64,10 +64,10 @@ cache: This operator allows you to view the cached version of a page. For exampl
 <img width="416" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/2291833a-7427-4f65-afcc-b03293b8ebf5">
 
  
-#DNS Enumeration
+# DNS Enumeration
 
 
-##DNS Recon
+## DNS Recon
 provides the ability to perform:
 Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
@@ -76,15 +76,13 @@ Top level domain expansion
 ## OUTPUT:
 <img width="363" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/7038f1fd-9fee-45d4-80a2-2331fbde161b">
 
-
-
 <img width="418" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/d408fb61-d3fe-4a62-b4e1-31866a61eb25">
 
 
 
 
 
-##dnsenum
+## dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
 
 Get the host’s addresses (A record).
