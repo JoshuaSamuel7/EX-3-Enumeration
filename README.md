@@ -96,7 +96,7 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 <img width="373" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/ab849d77-669a-4de6-82a1-3aef9f1694b3">
 
 
-##smtp-user-enum
+## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 <img width="373" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/f7b6ba74-7de6-435e-bd2c-1e601591710c">
 
@@ -111,13 +111,13 @@ select any username in the first column of the above file and check the same
 <img width="371" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/23c38c58-6deb-42bd-9994-08a80bcb5b51">
 
 
-#Telnet for smtp enumeration
+# Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
 telnet <host address> 25 to connect
 and issue appropriate commands
 
   
- ##Output
+ ## Output
  
 <img width="369" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/f4dc26e9-3a89-483e-9fee-1e78e6579cb5">
 
